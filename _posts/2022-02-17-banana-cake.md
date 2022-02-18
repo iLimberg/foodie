@@ -8,7 +8,7 @@ image: assets/images/banana_cake.jpg
 description:
 featured: true
 hidden: true
-rating: 4.9
+rating: 4,8
 ---
 
 ## Ингридиенты:
