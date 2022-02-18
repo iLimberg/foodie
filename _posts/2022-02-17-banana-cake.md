@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Банановый кекс"
-# author: john
+author: ILYA
 categories: [ Десерт ]
 tags: [бананы, орехи, десерт]
 image: assets/images/banana_cake.jpg
