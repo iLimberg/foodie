@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Банановый кекс"
+title:  "Тестирование таблицы"
 author: ILYA
-categories: [ Десерт ]
-tags: [бананы, орехи, десерт]
+categories:
+tags:
 image:
 description:
 featured: false
