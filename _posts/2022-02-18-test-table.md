@@ -2,10 +2,10 @@
 layout: post
 title:  "Тестирование таблицы"
 author: ILYA
-categories:
-tags:
+categories: [ test ]
+tags: [ test ]
 image:
-description:
+description: Test
 featured: false
 hidden: true
 ---
