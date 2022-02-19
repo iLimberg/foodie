@@ -1,7 +1,7 @@
 # Site
-name: "Limberg Stuff"
+name: "Limberg"
 title: "Записная книжка Лимберга"
-description: "Заметки про еду"
+description: ""
 # logo: ''
 favicon: 'assets/images/logo.png'
 baseurl: '/'
