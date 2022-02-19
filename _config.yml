@@ -2,8 +2,8 @@
 name: ""
 title: "Записная книжка Лимберга"
 description: ""
-# logo: ''
-favicon: 'assets/images/logo.png'
+logo: 'assets/images/logo.png'
+favicon: ''
 baseurl: '/'
 google_analytics: ''
 disqus: 'demowebsite'
