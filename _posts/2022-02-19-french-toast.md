@@ -3,7 +3,7 @@ layout: post
 title:  "Французские тосты"
 categories: [ Завтрак ]
 tags: [завтрак, хлеб]
-image: assets/images/toast.jpg
+image: assets/images/toast.jpeg
 description: Классические тосты с саханой пудрой
 rating: 4.8
 ---
