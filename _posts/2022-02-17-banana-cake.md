@@ -6,7 +6,6 @@ tags: [бананы, орехи, десерт, кекс]
 image: assets/images/banana_cake.jpg
 description: Офигенный рецепт простого бананового кекса!
 featured: true
-hidden: true
 rating: 5
 ---
 
