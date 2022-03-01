@@ -5,7 +5,6 @@ categories: [ соусы ]
 tags: [йогурт, кинза]
 image: assets/images/jogurt-kinza-sause.jpeg
 description: Полезный свежий соус
-rating: 4
 ---
 
 ## Ингридиенты  

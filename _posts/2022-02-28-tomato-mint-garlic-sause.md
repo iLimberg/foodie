@@ -5,7 +5,6 @@ categories: [ соусы ]
 tags: [томаты, мята, чеснок]
 image: assets/images/tomato-mint-sause.jpeg
 description: Летний освежающий соус
-rating: 5
 ---
 
 ## Ингридиенты  
