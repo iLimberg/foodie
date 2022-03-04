@@ -7,6 +7,8 @@ image: assets/images/jogurt-kinza-sause.jpeg
 description: Полезный свежий соус
 ---
 
+**Уровень сложности**: Легко
+
 ## Ингридиенты  
 
 * Йогурт — 200 мл.,
