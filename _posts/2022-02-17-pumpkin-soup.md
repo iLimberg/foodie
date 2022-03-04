@@ -3,7 +3,7 @@ layout: post
 title:  "Пряный тыквенный крем-суп"
 categories: [ Обед, суп ]
 tags: [ тыква, курица ]
-image: assets/images/pumpkin-soup.jpeg
+image: assets/images/pumpkin-soup.jpg
 description: Вкуснее этого супа не существует
 featured: true
 hidden: true
