@@ -2,7 +2,7 @@
 layout: post
 title:  "Французские тосты"
 categories: [ Завтрак ]
-tags: [завтрак, хлеб]
+tags: [хлеб]
 image: assets/images/toast.jpeg
 description: Классические тосты с саханой пудрой
 ---

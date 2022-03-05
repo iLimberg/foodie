@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Банановый кекс"
-categories: [ Десерт, Кекс ]
+categories: [ Десерт, Выпечка ]
 tags: [бананы, орехи, десерт, кекс]
 image: assets/images/banana_cake.jpg
 description: Офигенный рецепт простого бананового кекса!
