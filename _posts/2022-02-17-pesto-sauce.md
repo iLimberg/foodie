@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Ребра BBQ"
+title:  "Лучший соус песто"
 categories: [ соусы ]
 tags: [базилик]
 image: assets/images/pesto-sauce.jpeg
