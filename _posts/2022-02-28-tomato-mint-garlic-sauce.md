@@ -3,7 +3,7 @@ layout: post
 title:  "Томатно чесночный мятный соус"
 categories: [ соусы ]
 tags: [томаты, мята, чеснок]
-image: assets/images/tomato-mint-sause.jpeg
+image: assets/images/tomato-mint-sauce.jpeg
 description: Летний освежающий соус
 ---
 

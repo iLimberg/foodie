@@ -3,7 +3,7 @@ layout: post
 title:  "Йогуртовый соус с кинзой"
 categories: [ соусы ]
 tags: [йогурт, кинза]
-image: assets/images/jogurt-kinza-sause.jpeg
+image: assets/images/jogurt-kinza-sauce.jpeg
 description: Полезный свежий соус
 ---
 
