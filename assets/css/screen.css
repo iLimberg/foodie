@@ -905,12 +905,12 @@ iframe {
     border-collapse: collapse;
   }
   
-  .th, .td {
+.th, .td {
     border: 1px solid black;
     padding: 8px;
     width: 10%;
   }
   
-  .th {
+.th {
     background-color: lightgray;
   }
