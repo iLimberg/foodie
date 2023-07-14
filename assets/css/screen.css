@@ -902,15 +902,11 @@ iframe {
 /** таблица **/
 .table {
     width: 100%;
+    border: 1px solid black;
     border-collapse: collapse;
   }
   
 .th, td {
-    border: 1px solid black;
     padding: 8px;
     width: 10%;
-  }
-  
-.th {
-    background-color: #f2f2f2;
   }
