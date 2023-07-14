@@ -900,6 +900,17 @@ iframe {
     transition: opacity .25s;
 }
 
-.th {
-    padding: 2px;
-}
+.table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .th, td {
+    border: 1px solid black;
+    padding: 8px;
+    width: 10%;
+  }
+  
+  .th {
+    background-color: #f2f2f2;
+  }
