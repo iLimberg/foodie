@@ -16,63 +16,23 @@ hidden: true
 <table border="1">
     <thead>
       <tr>
-        <th>Column 1</th>
-        <th>Column 2</th>
-        <th>Column 3</th>
-        <th>Column 4</th>
-        <th>Column 5</th>
-        <th>Column 6</th>
-        <th>Column 7</th>
-        <th>Column 8</th>
-        <th>Column 9</th>
-        <th>Column 10</th>
+        <th>Мука</th>
+        <th>Разрыхлитель</th>
+        <th>Соль</th>
+        <th>Сливочное масло</th>
+        <th>Сахар</th>
+        <th>Изюм мклкий</th>
+        <th>Грецкий орех</th>
+        <th>Курага</th>
+        <th>Яйца</th>
+        <th>Бананы</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td>Row 1, Cell 1</td>
-        <td>Row 1, Cell 2</td>
-        <td>Row 1, Cell 3</td>
-        <td>Row 1, Cell 4</td>
-        <td>Row 1, Cell 5</td>
-        <td>Row 1, Cell 6</td>
-        <td>Row 1, Cell 7</td>
-        <td>Row 1, Cell 8</td>
-        <td>Row 1, Cell 9</td>
-        <td>Row 1, Cell 10</td>
-      </tr>
-      <tr>
-        <td>Row 2, Cell 1</td>
-        <td>Row 2, Cell 2</td>
-        <td>Row 2, Cell 3</td>
-        <td>Row 2, Cell 4</td>
-        <td>Row 2, Cell 5</td>
-        <td>Row 2, Cell 6</td>
-        <td>Row 2, Cell 7</td>
-        <td>Row 2, Cell 8</td>
-        <td>Row 2, Cell 9</td>
-        <td>Row 2, Cell 10</td>
-      </tr>
-    </tbody>
-  </table>
-
-<table>
-    <tr>
-        <td>Мука</td>
-        <td>Разрыхлитель</td>
-        <td>Соль</td>
-        <td>Сливочное масло</td>
-        <td>Сахар</td>
-        <td>Изюм мклкий</td>
-        <td>Грецкий орех</td>
-        <td>Курага</td>
-        <td>Яйца</td>
-        <td>Бананы</td>
-    </tr>
-    <tr>
         <td>225 г.</td>
         <td>2 ч.л.</td>
-        <td>1/2 ч. ложки</td>
+        <td>1/2 ч.л.</td>
         <td>100 г.</td>
         <td>175 г.</td>
         <td>100 г.</td>
@@ -80,8 +40,10 @@ hidden: true
         <td>100 г.</td>
         <td>4 шт.</td>
         <td>450 г.</td>
-    </tr>
-</table>
+      </tr>
+    </tbody>
+  </table>
+
 
 - Мука - 225 г.
 - Разрыхлитель - 2 ч.л..

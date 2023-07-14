@@ -900,6 +900,6 @@ iframe {
     transition: opacity .25s;
 }
 
-.tr {
-	border: 1px solid #333;
+.th {
+    padding: 2px;
 }
