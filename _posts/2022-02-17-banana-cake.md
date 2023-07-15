@@ -43,7 +43,7 @@ hidden: true
       </tr>
     </tbody>
 </table>
-
+<br>
 
 ### Как готовить
 
